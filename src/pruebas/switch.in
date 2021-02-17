@@ -1,0 +1,15 @@
+func float[12][24] hello(int mon, double amour) {
+    int hola, prueba;
+    float[12][24] ejemplo;
+    double h;
+    prueba = 0;
+    switch(prueba){
+        case 1:
+            hola = 2;
+        case 2:
+            hola = 3;
+        default:
+            hola = 4;    
+    }            
+    return ejemplo;
+}    

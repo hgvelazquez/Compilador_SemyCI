@@ -1,0 +1,7 @@
+func float[12][24] hello(int foo, double bar) {
+    int hola, prueba;
+    float[12][24] adios;
+    double h;
+    adios[3][20] = 2.3f;
+    adios[hola][0] = 1e1;
+}    

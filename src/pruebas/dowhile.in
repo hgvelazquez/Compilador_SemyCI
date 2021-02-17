@@ -1,0 +1,12 @@
+func int hello(int foo, double bar) {
+    int hola, prueba;
+    float[12][24] adios;
+    double h;
+    --Comentario de una línea;
+    
+    do 
+        hola = 23*44;
+    while(prueba == 0)
+    
+    return hola;
+}    

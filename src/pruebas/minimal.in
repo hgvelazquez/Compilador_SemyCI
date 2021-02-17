@@ -1,0 +1,5 @@
+func int hello(int foo, double bar) {
+    int hola;
+    <* Esta es una prueba para las aritméticas*>
+    hola = -4*(32+44) - (42/22%3) + 1;
+}    

@@ -1,0 +1,12 @@
+func float[12][24] hello(int foo, double bar) {
+    int hola, prueba;
+    float[12][24] ejemplo;
+    double h;
+    while(prueba == 2){
+        hola = prueba + 1;
+    }
+}    
+
+func void otraFuncion(int mas, float parametros){
+    print 23*42;
+}

@@ -1,0 +1,10 @@
+func float[12][24] hello(int mon, double amour) {
+    int hola, prueba;
+    float[12][24] ejemplo;
+    double h;
+    if (hola > prueba)
+        hola = 2;
+    else
+        hola = 0;    
+    return ejemplo;
+}    

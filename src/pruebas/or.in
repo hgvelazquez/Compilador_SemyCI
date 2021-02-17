@@ -1,0 +1,11 @@
+func float[12][24] hello(int foo, double bar) {
+    int hola, prueba;
+    float[12][24] adios;
+    double h;
+    --Comentario de una línea;
+    <* Comentario de varias "líneas" 
+       Puede comparar con el archivo and *>
+    
+    hola = prueba == 32 || 32 == 15 || 42 == 42;
+    return adios;
+}    
